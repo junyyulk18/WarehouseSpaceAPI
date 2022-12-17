@@ -529,6 +529,7 @@ module.exports = {
             dataDate: arrDateResult,
             dataDoanhThu: arrDoanhThu,
             dataChietKhau: arrChietKhau,
+            dataDoanhThuSauChietKhau: arrDoanhThuSauChietKhau,
             message: 'Tính lợi nhuận tuần này thành công'
         });
     },
